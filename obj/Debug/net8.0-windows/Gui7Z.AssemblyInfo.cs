@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gui7Z")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b52876f69120db6095d2e91ad528f67fd172a608")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gui7Z")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gui7Z")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
