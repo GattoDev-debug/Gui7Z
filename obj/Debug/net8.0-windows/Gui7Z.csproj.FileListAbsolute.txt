@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Gui7Z\bin\Debug\net8.0-windows\Gui7Z.exe
+C:\Users\PC\source\repos\Gui7Z\bin\Debug\net8.0-windows\Gui7Z.deps.json
+C:\Users\PC\source\repos\Gui7Z\bin\Debug\net8.0-windows\Gui7Z.runtimeconfig.json
+C:\Users\PC\source\repos\Gui7Z\bin\Debug\net8.0-windows\Gui7Z.dll
+C:\Users\PC\source\repos\Gui7Z\bin\Debug\net8.0-windows\Gui7Z.pdb
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.Form1.resources
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.AssemblyInfo.cs
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.dll
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\refint\Gui7Z.dll
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.pdb
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\Gui7Z.genruntimeconfig.cache
+C:\Users\PC\source\repos\Gui7Z\obj\Debug\net8.0-windows\ref\Gui7Z.dll
